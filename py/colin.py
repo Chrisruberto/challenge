@@ -45,6 +45,6 @@ pos = 1
 for name in nombres:
     tscore += score(name, pos)
     pos += 1
-#end for loop.
+
 
 print (tscore)
